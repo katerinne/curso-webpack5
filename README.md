@@ -3,6 +3,9 @@ Curso de webpack5 desde cero, finalizando con microfrontends... esto sí que me 
 
 Voy a seguir el curso: Webpack 5 The Complete Guide for Beginners de TutsNode
 
+Voy a tratar de escribir todo el código fuente javascript usando es6, programación funcional y conceptos como:
+closures, currying, destructuring y otros.
+
 ## Estructura:
 Voy a organizar el curso por ramas y dentro de cada rama un commit va a ser un objetivo cumplido.
 
