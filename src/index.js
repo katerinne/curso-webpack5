@@ -1,3 +1,4 @@
+import useEjerciciosFcc from "./composables/useEjerciciosFcc.js";
 const main = () => {
   const { setMensaje, getMensaje } = useEjerciciosFcc();
 

@@ -9,3 +9,5 @@ const useEjerciciosFcc = () => {
     getMensaje,
   };
 };
+
+export default useEjerciciosFcc;
