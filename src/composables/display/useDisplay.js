@@ -1,4 +1,4 @@
-import "./display.css";
+import "./display.scss";
 
 const useDisplay = () => {
   const renderParagraph = (text = "hello world") => {

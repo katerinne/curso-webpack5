@@ -1,4 +1,4 @@
-import "./helloWorldButton.css";
+import "./helloWorldButton.scss";
 
 const useHelloWorldButton = () => {
   const renderButton = () => {

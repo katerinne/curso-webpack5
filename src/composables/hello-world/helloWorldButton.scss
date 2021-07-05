@@ -1,0 +1,23 @@
+.hello-world-button {
+  font-family: monospace;
+  background: rgb(50, 120, 230);
+  font-size: 1.5em;
+  border-radius: 5px;
+  color: white;
+  padding: 7px 15px;
+  opacity: 1;
+  transition: opacity .5s, box-shadow .2s;
+  border: none;
+  box-shadow: 1px 1px 3px black;
+
+  &:hover {
+    cursor: pointer;
+  box-shadow: 1px 1px 2px black;
+  opacity: .9;
+  }
+  &:active {
+    cursor: pointer;
+  box-shadow: 1px 1px 1px black;
+  opacity: 1;
+  }
+}

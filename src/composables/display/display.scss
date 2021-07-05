@@ -2,7 +2,9 @@
   font-family: monospace;
   font-size: 2em;
   text-align: center;
-}
-.invisible {
-  display: none;
+  opacity: 1;
+  transition: opacity 1s;
+  &.invisible {
+    opacity: 0;
+  }
 }
