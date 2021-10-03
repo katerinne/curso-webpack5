@@ -6,7 +6,7 @@ const main = () => {
   const { renderButton } = useHelloWorldButton();
   const { renderParagraph } = useDisplay();
 
-  console.group("hola mundo");
+  console.group("hola Eloy");
   console.log("antes de asignar el valor: hola mundo ->", getMensaje());
   setMensaje("hola mundo");
   console.log("después de asignar el valor: hola mundo ->", getMensaje());
